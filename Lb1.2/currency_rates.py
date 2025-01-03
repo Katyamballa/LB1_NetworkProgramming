@@ -5,7 +5,7 @@ import json
 url = "https://bank.gov.ua/NBU_Exchange/exchange_site"
 
 # Параметры запроса
-params = {
+params =
     "start": "20240916",  # Дата начала
     "end": "20240923",    # Дата окончания
     "valcode": "usd",     # Код валюты
