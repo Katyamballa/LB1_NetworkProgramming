@@ -1,0 +1,98 @@
+[
+    {
+        "exchangedate": "23.09.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.3481,
+        "units": 1,
+        "rate_per_unit": 41.3481,
+        "group": "1",
+        "calcdate": "20.09.2024"
+    },
+    {
+        "exchangedate": "22.09.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.4445,
+        "units": 1,
+        "rate_per_unit": 41.4445,
+        "group": "1",
+        "calcdate": "19.09.2024"
+    },
+    {
+        "exchangedate": "21.09.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.4445,
+        "units": 1,
+        "rate_per_unit": 41.4445,
+        "group": "1",
+        "calcdate": "19.09.2024"
+    },
+    {
+        "exchangedate": "20.09.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.4445,
+        "units": 1,
+        "rate_per_unit": 41.4445,
+        "group": "1",
+        "calcdate": "19.09.2024"
+    },
+    {
+        "exchangedate": "19.09.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.4508,
+        "units": 1,
+        "rate_per_unit": 41.4508,
+        "group": "1",
+        "calcdate": "18.09.2024"
+    },
+    {
+        "exchangedate": "18.09.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.41,
+        "units": 1,
+        "rate_per_unit": 41.41,
+        "group": "1",
+        "calcdate": "17.09.2024"
+    },
+    {
+        "exchangedate": "17.09.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.3591,
+        "units": 1,
+        "rate_per_unit": 41.3591,
+        "group": "1",
+        "calcdate": "16.09.2024"
+    },
+    {
+        "exchangedate": "16.09.2024",
+        "r030": 840,
+        "cc": "USD",
+        "txt": "Долар США",
+        "enname": "US Dollar",
+        "rate": 41.3171,
+        "units": 1,
+        "rate_per_unit": 41.3171,
+        "group": "1",
+        "calcdate": "13.09.2024"
+    }
+]
